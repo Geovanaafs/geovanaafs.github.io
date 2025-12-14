@@ -1,6 +1,8 @@
 # Personal Portfolio Website
 
-A clean, professional portfolio website inspired by academic portfolio designs. Perfect for researchers, academics, or professionals who want to showcase their work, publications, and experience.
+A clean, professional portfolio website for researchers, academics, or professionals who want to showcase their works/publications
+
+by Geovana Franca, PhD Research at Concordia University
 
 ## Features
 
@@ -53,9 +55,7 @@ Edit the CSS variables in `styles.css` to match your preferred color scheme:
 
 Simply open `index.html` in your web browser to see your portfolio!
 
-## Deployment Options
-
-### Option 1: GitHub Pages (Free)
+## Deployment Options - GitHub Pages (Free)
 
 1. Create a new GitHub repository
 2. Upload all files to the repository
@@ -63,17 +63,6 @@ Simply open `index.html` in your web browser to see your portfolio!
 4. Select "main" branch as source
 5. Your site will be live at `https://yourusername.github.io/repository-name`
 
-### Option 2: Netlify (Free)
-
-1. Create a free account at [Netlify](https://www.netlify.com)
-2. Drag and drop your website folder
-3. Your site will be live instantly with a custom URL
-
-### Option 3: Vercel (Free)
-
-1. Create a free account at [Vercel](https://vercel.com)
-2. Import your GitHub repository or upload files
-3. Deploy with one click
 
 ## File Structure
 
@@ -143,17 +132,3 @@ You can easily add new sections by following the same pattern:
 - Safari (latest)
 - Edge (latest)
 - Mobile browsers
-
-## Need Help?
-
-- Check the comments in the HTML, CSS, and JavaScript files
-- All styles are well-organized and documented
-- Each section is clearly marked for easy customization
-
-## License
-
-Feel free to use this template for your personal or professional portfolio. No attribution required.
-
----
-
-**Good luck with your portfolio! 🚀**
