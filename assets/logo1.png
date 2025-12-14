@@ -1,0 +1,5 @@
+<svg width="120" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="100" fill="#ffffff"/>
+  <text x="60" y="50" font-family="Arial" font-size="14" fill="#7f8c8d" text-anchor="middle">Logo</text>
+  <text x="60" y="70" font-family="Arial" font-size="10" fill="#95a5a6" text-anchor="middle">Placeholder</text>
+</svg>
